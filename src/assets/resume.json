@@ -1,0 +1,173 @@
+{
+    "name": "Dennis Cappel",
+    "address": "Zandrugweg 23,\n9900 Eeklo,\nBelgium",
+    "birth_date": "01-03-1988",
+    "nationality": "Belgian",
+    "drivers_license": "Yes - License B",
+    "car": "No",
+    "email": "denniscappel@gmail.com",
+    "phone": "0032/484.49.81.72",
+    "profile": {
+        "summary": "Motivated quality engineer with 10 years of experience in different roles. Always looking to streamline, automate and optimize processes. Never afraid to take on new tasks and dive into the deep-end (after proper research) to learn new tools and skills.",
+        "principles": [
+            "Why do it manually when it can be automated",
+            "Never deviate from the standard unless absolutely necessary"
+        ]
+    },
+    "socials": [
+        {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/in/dennis-cappel-0b1b3b1b/"
+        },
+        {
+            "name": "github",
+            "url": ""
+        }
+    ],
+    "work_experience": [
+        {
+            "company": "Sofico",
+            "since": "01-02-2018",
+            "until": "",
+            "positions": [
+                {
+                    "title": "Team Lead Quality Assurance",
+                    "since": "01-01-2024",
+                    "until": "",
+                    "description": "Developing software for the automotive industry"
+                },
+                {
+                    "title": "Quality Engineer",
+                    "since": "01-02-2018",
+                    "until": "01-01-2024",
+                    "description": "Developing software for the automotive industry"
+                }
+            ]
+        },
+        {
+            "company": "Sofico",
+            "since": "01-11-2011",
+            "until": "30-06-2017",
+            "positions": [
+                {
+                    "title": "Business & Implementation Consultant",
+                    "since": "01-04-2015",
+                    "until": "30-06-2017",
+                    "description": "Developing software for the automotive industry"
+                },
+                {
+                    "title": "Software Tester",
+                    "since": "01-04-2012",
+                    "until": "01-04-2015",
+                    "description": "Developing software for the automotive industry"
+                },
+                {
+                    "title": "Support Consultant",
+                    "since": "01-11-2011",
+                    "until": "01-04-2012",
+                    "description": "Developing software for the automotive industry"
+                }
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Python",
+            "category": "Programming",
+            "level": 4,
+            "since": "01-01-2021"
+        },
+        {
+            "name": "Javascript",
+            "category": "Programming",
+            "level": 4,
+            "since": "01-01-2020"
+        },
+        {
+            "name": "Java",
+            "category": "Programming",
+            "level": 2,
+            "since": "01-01-2018"
+        },
+        {
+            "name": "SQL",
+            "category": "Programming",
+            "level": 4,
+            "since": "01-01-2011"
+        },
+        {
+            "name": "Jenkins",
+            "category": "DevOps",
+            "level": 4,
+            "since": "01-01-2018"
+        },
+        {
+            "name": "Bamboo",
+            "category": "DevOps",
+            "level": 5,
+            "since": "01-01-2014"
+        },
+        {
+            "name": "GitHub Workflows",
+            "category": "DevOps",
+            "level": 5,
+            "since": "01-09-2022"
+        },
+        {
+            "name": "BitBucket",
+            "category": "Programming",
+            "level": 4,
+            "since": "01-01-2018"
+        },
+        {
+            "name": "GitHub",
+            "category": "Programming",
+            "level": 4,
+            "since": "01-09-2022"
+        },
+        {
+            "name": "Git",
+            "category": "Programming",
+            "level": 4,
+            "since": "01-01-2018"
+        },
+        {
+            "name": "Jira",
+            "category": "Tooling",
+            "level": 4,
+            "since": "01-01-2014"
+        },
+        {
+            "name": "Confluence",
+            "category": "Tooling",
+            "level": 4,
+            "since": "01-01-2014"
+        },
+        {
+            "name": "Selenium",
+            "category": "Testing",
+            "level": 4,
+            "since": "01-01-2012"
+        }
+    ],
+    "education": [
+        {
+            "school": "CVO Gent",
+            "degree": "Residential Electrical Installer",
+            "since": "01-09-2016",
+            "until": "01-07-2017"
+        },
+        {
+            "school": "University of Ghent",
+            "degree": "Master of Science in Business Economics (Handelswetenschappen)",
+            "since": "01-09-2006",
+            "until": "01-07-2011"
+        },
+        {
+            "school": "Maricolen - Maldegem",
+            "degree": "Specialization in Economics and Modern Languages",
+            "since": "01-09-2000",
+            "until": "01-07-2006"
+        }
+    ]
+}
