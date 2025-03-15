@@ -34,7 +34,7 @@
       <v-col cols="auto">
         <v-text-field v-for="(item, index) in contactItems" :key="index" :prepend-icon="item.icon" variant="underlined"
           readonly>
-          <v-btn :href="item.href" variant="text" :target="item.target" size="small" density="comfortable">
+          <v-btn :href="item.href" variant="text" target="_blank" size="small" density="comfortable">
             {{ item.text }}
           </v-btn>
           <v-btn icon="mdi-content-copy" variant="plain" @click="copyToClipboard(item.text)" size="x-small"
