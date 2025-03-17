@@ -3,10 +3,6 @@
     <h2 class="text-h4 mb-4 pa-4">Skills</h2>
     <div class="pa-4 bg-surface rounded">
       <v-row align="end" class="mb-4">
-        <v-btn-toggle v-model="activeFilter" color="primary" mandatory>
-          <v-btn value="all">All</v-btn>
-          <v-btn value="coding">Coding</v-btn>
-        </v-btn-toggle>
         <v-chip v-for="option in filterOptions()" :key="option" :color="activeFilter === option ? 'primary' : undefined"
           :variant="activeFilter === option ? 'elevated' : 'flat'" @click="activeFilter = option" class="px-4" filter>
           {{ option }}
